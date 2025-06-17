@@ -1,4 +1,4 @@
-# Gotrade Market Pulse Analysis
+# Market Pulse Analysis
 
 ## Project Overview
 Indonesian brokerage conversation analysis across news media, mapped to 7P marketing mix.
