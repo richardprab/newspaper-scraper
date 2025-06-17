@@ -1,0 +1,31 @@
+
+REPOSITORY: market-pulse-20250617_142105
+============================
+
+/notebooks/
+  - data_collection.ipynb
+  - analysis.ipynb
+  - visualization.ipynb
+
+/scripts/
+  - scraper.py
+  - analyzer.py
+  - wordcloud_generator.py
+
+/data/
+  - raw_mentions_20250617_142105.json
+  - clean_tokens_20250617_142105.parquet
+  - token_P_labels_20250617_142105.parquet
+  - top_tokens_by_P_20250617_142105.csv
+  - sentiment_matrix_20250617_142105.csv
+
+/visuals/
+  - wordcloud_full_20250617_142105.png, P_bar_20250617_142105.png, sentiment_heat_20250617_142105.png
+
+/docs/
+  - requirements.txt
+  - setup_guide.md
+  - api_documentation.md
+
+/output/
+  - MarketPulse_20250617_142105.pptx
